@@ -41,3 +41,10 @@ body
     padding: lem;
     font-size: 15px;
 }
+
+#footer
+{
+    background: #777777;
+    color: white;
+    text-align: center;
+}
